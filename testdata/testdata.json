@@ -1,0 +1,17 @@
+{
+    "login": {
+        "email": "narendrasingh@impel.io",
+        "password": "Z4tYNMVB",
+        "invalidemail": "narendrasingh@gmail.com",
+        "invalidpassword": "testadadfsd"
+    },
+    "customerpage": {
+        "name": "TestName15",
+        "s3folder": "360sales15",
+        "Additional S3 folders": "",
+        "Max size": "",
+        "lastnameused": "TestName",
+        "logincustomaer": "testname15@impel.io",
+        "loginpassword": "RnKsMWlI"
+    }
+}
